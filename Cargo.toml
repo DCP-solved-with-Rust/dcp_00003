@@ -1,0 +1,8 @@
+[package]
+name = "dcp_00003"
+description = "Daily Coding Problem: Problem #3"
+license = "ISC"
+readme = "README.md"
+version = "0.0.1"
+authors = ["Erik Nordstrøm <erik@nordstroem.no>"]
+publish = false
